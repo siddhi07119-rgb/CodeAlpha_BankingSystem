@@ -39,7 +39,7 @@ A menu-driven Banking System developed in C to perform basic bank account operat
 ### 1. Clone Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/siddhi07119-rgb/CodeAlpha_BankingSystem.git
 cd CodeAlpha_BankingSystem
 clang bank.c -o bank
 ./bank
